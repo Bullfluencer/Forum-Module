@@ -1,0 +1,25 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #c9c7c7;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.logotje {
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.home-t{
+    margin-right: 1300px;
+} 
+
